@@ -8,6 +8,8 @@ npm install
 npm run dev
 ```
 
+runs on `http://localhost:4000`
+
 ### Frontend Core Features & Styling & Polish: 170 minutes
 
 ```bash
@@ -15,6 +17,8 @@ cd .\frontend
 npm install
 npm run dev
 ```
+
+runs on `http://localhost:5173/`
 
 ### API Endpoints
 
