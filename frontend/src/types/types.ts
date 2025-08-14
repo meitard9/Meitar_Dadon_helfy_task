@@ -7,4 +7,8 @@ export interface Task {
     completed: boolean;
     createdAt: Date;
     priority: Priority;
+}
+export interface FilterState {
+    status: "all" | "active" | "completed";
+    priority: "all" | Priority;
   }
